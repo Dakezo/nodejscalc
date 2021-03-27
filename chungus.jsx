@@ -1,6 +1,6 @@
 import React from 'react'; // import react module
-import screen from './screen'; // Import our screen component from this directory
-import button from './button'; // Import our button component from this directory
+import screen from './screen.jsx'; // Import our screen component from this directory
+import button from './button.jsx'; // Import our button component from this directory
 
 // create a class which extends react component
 class Frame extends React.Component {

@@ -1,5 +1,5 @@
 import React from 'react'; // Import react module
-import ScreenRow from './screenRow';
+import ScreenRow from './screenRow.jsx';
 
 // Create our screen component as a functional component.
 // It would display two screen rows, 1 for questions and the other for the answer
