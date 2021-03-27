@@ -3,7 +3,7 @@ import screen from './screen'; // Import our screen component from this director
 import button from './button'; // Import our button component from this directory
 
 // create a class which extends react component
-class Frame extends React.Component {
+class chungus extends React.Component {
     constructor() {
         super();
         // set our default state
@@ -24,7 +24,7 @@ class Frame extends React.Component {
                 div className = "frame" >
                 <
                 div className = "calculator-title" >
-                R_N Calculator <
+                THE FUCKULATOR <
                 /div> <
                 Screen question = { this.state.question }
                 answer = { this.state.answer }
@@ -138,4 +138,4 @@ class Frame extends React.Component {
 }
 
 // export our frame component. To be used in our client/index.js file
-export default Frame;
+export default chungus;
